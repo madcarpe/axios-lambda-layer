@@ -1,0 +1,27 @@
+{
+  "name": "axios-lambda-layer",
+  "version": "1.0.0",
+  "description": "axios layer for lambda functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madcarpe/axios-lambda-layer.git"
+  },
+  "keywords": [
+    "axios",
+    "lambda",
+    "layer"
+  ],
+  "author": "Madison Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madcarpe/axios-lambda-layer/issues"
+  },
+  "homepage": "https://github.com/madcarpe/axios-lambda-layer#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
